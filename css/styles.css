@@ -296,7 +296,7 @@ p {
 }
 
 .hero {
-  background-color: var(--section-bgd-color);
+  background-color: var(--footer-bgd-color);
 }
 
 .hero .bg {
